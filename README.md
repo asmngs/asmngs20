@@ -6,4 +6,5 @@
 
 ### October 23-26, 2020
 
-### Hyatt Regency Capitol Hill | Washington DC
+### Hyatt Regency Capitol Hill
+### Washington DC
