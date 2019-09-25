@@ -4,7 +4,7 @@
 
 ### 4th ASM Conference on Rapid Applied Microbial Next-Generation Sequencing and Bioinformatic Pipelines (ASM NGS)
 
-### October 23-26, 2020
+October 23-26, 2020
 
-### Hyatt Regency Capitol Hill
-### Washington DC
+Hyatt Regency Capitol Hill
+Washington DC
