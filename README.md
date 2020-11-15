@@ -188,6 +188,10 @@ ASMNGS began in 2015 (if you're feeling nostalgic, the program is available [her
 
 Keynote speakers were selected by soliciting ideas from the organizing committee, who then arrived at our top choices through an email discussion. Submitted abstracts were reviewed by Ruth and Duncan - 149 were accepted, and 10 were declined. Reasons for declining abstracts included a topic not consistent with the conference's scope, or inadequate/inappropriate/insufficient methods/results/conclusions. All accepted abstracts were reviewed by the organizing committee, and six committee members cast votes for that they felt merited oral presentation. Votes were tallied, and abstracts selected for oral presentation accordingly. We also looked for diversity in our presenters, to ensure that ASM NGS continues to represent the full breadth, brightness and potential of our field.
 
+Subsidized registration for participants from low and middle income countries (LMICs) is thanks to generous support from the Bill and Melinda Gates Foundation. You can apply for a subsidy [here](https://asmeetings.formstack.com/forms/2020_asm_ngs__bmgf_lmic_registration_subsidy), or see if you are [eligible](https://data.worldbank.org/income-level/low-and-middle-income).
+
+We are grateful to all of our corporate [sponsors](https://asm.org/Events/ASM-NGS/Sponsorship-Opportunities) this year, and look forward to a great conference.
+
 ## Program Committee
 
 **Duncan MacCannell** - Chair
