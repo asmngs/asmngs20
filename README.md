@@ -1,8 +1,5 @@
-# ASMNGS20 - 2020 Conference Details
-
-### 4th ASM Conference on Rapid Applied Microbial Next-Generation Sequencing and Bioinformatic Pipelines (ASM NGS)
-
 # ASMNGS 2020 Virtual Conference
+### 4th ASM Conference on Rapid Applied Microbial Next-Generation Sequencing and Bioinformatic Pipelines (ASM NGS)
 ### December 7-11, 2020
 
 1. Important Information
@@ -38,7 +35,6 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 | 16:50-17:00 | Planning Committee | Planning Committee | Thanks, closing and logistics for the week. |
 
 ## Tuesday, December 8, 2020
-
 ### Epidemiological Cues: NGS in Clinical and Public Health Microbiology
 
 | Time (GMT-5) | Speaker | Affiliation | Title |
