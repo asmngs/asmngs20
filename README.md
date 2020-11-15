@@ -28,7 +28,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 ### Opening Plenary
 
 | Time (GMT-5) | Speaker | Affiliation | Title |
-| ----| --- | ---| ----|
+| -----| --- | ---| ----|
 | 15:30-15:40 | [Duncan MacCannell](https://www.twitter.com/dmaccannell) & [Ruth Timme](https://www.twitter.com/doctorruth) | Program Committee | Welcome to ASMNGS 2020 |
 | 15:40-15:50 | TBD | American Society for Microbiology | Welcome on Behalf of ASM |
 ||
@@ -40,7 +40,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 ### Epidemiological Cues: NGS in Clinical and Public Health Microbiology
 
 | Time (GMT-5) | Speaker | Affiliation | Title |
-| ----| --- | ---| ----|
+| -----| --- | ---| ----|
 | 10:00-10:30 | Sharon Peacock | Public Health England | TBD |
 | 10:30-11:00 | Mike Worobey | University of Arizona | TBD |
 ||
@@ -48,11 +48,17 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 | 11:15-11:30 | Oral abstract | Heather Blankenship | Utilization of Whole Genome Sequencing of SARS-CoV-2 for Public Health Response |
 | 11:30-11:45 | Oral abstract | Joseph Fauver | Near real-time genomic epidemiology of the SARS-CoV-2 pandemic in Connecticut, USA |
 
+### Featured Posters
+| Time (GMT-5) | Speaker | Affiliation | Title |
+| -----| --- | ---| ----|
+| TBD | Featured Poster | Rebecca Rockett (USydney) | The Powerful Duo: Synthesis of SARS-CoV-2 Genome Sequencing and Epidemiological Data for Targeted Control of COVID-19 |
+| TBD | Featured Poster | Jorge Cervantes (Texas Tech) | Genetic Identification and Drug-Resistance Characterization of Mycobacterium tuberculosis Using a Portable Sequencing Device |
+| TBD | Featured Poster | Matthias Groeschel (Harvard) | GenTB: A user-friendly online tool to predict antibiotic resistance in Mycobacterium tuberculosisusing statistical machine learning models |
 
 ## Monday Afternoon: Pipelines to Pixels: NGS Data Integration and Visualization session (chair: Jennifer Gardy)
 
 | Time | Speaker | Affiliation | Title |
-| ---| --- | ---| ----|
+| -----| --- | ---| ----|
 | 3:45-4:30 | [Maia Majumder](http://twitter.com/maiamajumder) | MIT | [Digital Disease Data for Outbreak Surveillance](https://maimunamajumder.files.wordpress.com/2018/09/majumder_asm_keynote.pdf) |
 | 4:30-5:15 | [Tom Schenk Jr.](http://www.twitter.com/tomschenkjr) | KPMG | [Predictive Analytics, Cities and Public Health](https://speakerdeck.com/tomschenkjr/predictive-analytics-cities-and-public-health) |
 | 5:15-5:30 | Oral abstract | Richard Goater | [Pathogenwatch: A Global Platform for Genomic Surveillance](https://cdn.rawgit.com/richardgoater/asmngs18/6322fb6f/richard-goater-pathogenwatch-a-global-platform-for-genomic-surveillance.pdf) |
@@ -62,7 +68,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 ## Tuesday Morning: Farm-to-Table: NGS in Veterinary, Food, and Environmental Microbiology (chair: Ruth Timme)
 
 | Time | Speaker | Affiliation | Title |
-| ---| --- | ---| ----|
+| -----| --- | ---| ----|
 | 8:00-8:45 | Jack Gilbert | University of Chicago | Breakfast Seminar sponsored by Illumina: Human and Environmental Microbial Health: A Global Perspective |
 | 9:00-9:45 | Yu Wang | FDA | The Genetic Diversity of Salmonella and Listeria Isolates from Food Facilities |
 | 9:45-10:30 | Nikki Shariat | Gettysburg College | CRISPR-SeroSeq: A Novel Amplicon-based Tool For Probing Salmonella Serovar Diversity |
@@ -77,7 +83,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 ## Tuesday Afternoon: Drugs & Thugs: NGS to Combat AMR  (chair: Marc Allard)
 
 | Time | Speaker | Affiliation | Title |
-| ---| --- | ---| ----|
+| -----| --- | ---| ----|
 | 3:45-4:30 | Blake Hanson | UTHealth | Nanopore Sequencing to Understand AMR |
 | 4:30-5:15 | [Mike Feldgarden](http://twitter.com/mikethemadbiol) | NCBI | [AMR Resources at NCBI’s Pathogen Portal](https://github.com/asmngs/asmngs18/blob/master/RAPD_ASM2018_v5_Feldgarden.pdf) |
 | 5:15-5:30 | Oral abstract | Emily Snavely | Development and Validation of a Clinical Whole-Genome Sequencing Pipeline for the Detection of Antimicrobial Resistance Genes in Bacterial Isolates |
@@ -89,7 +95,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 ## Wednesday Morning: Pipe Dreams: Analytical Methods, Bioinformatics Tools, and Pipelines (chair: Adam Phillippy)
 
 | Time | Speaker | Affiliation | Title |
-| ---| --- | ---| ----|
+| -----| --- | ---| ----|
 | 9:00-9:45 | [Torsten Seemann](http://twitter.com/torstenseemann) | University of Melbourne | [How to Write Bioinformatics Software no one will use](https://www.slideshare.net/torstenseemann/how-to-write-bioinformatics-software-no-one-will-use) |
 | 9:45-10:30 | Beth Neuhaus | CDC | The CDC Domestic Influenza Surveillance System: From Pipe Dream to High-Performance Reality |
 | 10:30-11:00 | Coffee break |
