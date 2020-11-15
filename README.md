@@ -191,46 +191,36 @@ Keynote speakers were selected by soliciting ideas from the organizing committee
 ## Program Committee
 
 **Duncan MacCannell** - Chair
-Centers for Disease Control and Prevention
-Atlanta
+*Centers for Disease Control and Preventio*n, Atlanta
 
 **Ruth Timme** - Co-Chair
-U.S. Food and Drug Administration
-College Park
+*U.S. Food and Drug Administration*, College Park
 
 **Marc Allard**
-U.S. Food and Drug Administration
-College Park
+*U.S. Food and Drug Administration*, College Park
 
 **Jennifer Gardy**
-Bill and Melinda Gates Foundation
-Seattle
+*Bill and Melinda Gates Foundation*, Seattle
 
 **Elodie Ghedin**
-National Human Genome Research Institute
-Bethesda
+*National Human Genome Research Institute*, Bethesda
 
 **George Gthinji**
-KEMRI/Wellcome Trust
-Nairobi, Kenya
+*KEMRI/Wellcome Trust*, Nairobi, Kenya
 
 **Dag Harmsen**
-University of Muenster
-Muenster, Germany
+*University of Muenster*, Muenster, Germany
 
 **Paul Keim**
-Northern Arizona University
-Flagstaff
+*Northern Arizona University*,Flagstaff
 
 **Adam Phillippy**
-National Institutes of Health
+*National Institutes of Health*,
 Bethesda
 
 **Torsten Seemann**
-University of Melbourne            
-Melbourne, Australia
+*University of Melbourne*, Melbourne, Australia
 
 **Sofonias Tessema**
-Africa CDC
-Addis Ababa, Ethiopia
+*Africa CDC*, Addis Ababa, Ethiopia
 
