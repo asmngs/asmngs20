@@ -28,26 +28,25 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 ### Opening Plenary
 
 | Time (GMT-5) | Speaker | Affiliation | Title |
-| ---| --- | ---| ----|
+| ----| --- | ---| ----|
 | 15:30-15:40 | [Duncan MacCannell](https://www.twitter.com/dmaccannell) & [Ruth Timme](https://www.twitter.com/doctorruth) | Program Committee | Welcome to ASMNGS 2020 |
 | 15:40-15:50 | TBD | American Society for Microbiology | Welcome on Behalf of ASM |
+||
 | 15:50-16:50 | [Trevor Bedford](https://www.twitter.com/trvrb), Bronwyn MacInnis, [Yonatan Grad](https://www.twitter.com/yhgrad) - *Moderated by [Jennifer Gardy](https://www.twitter.com/jennifergardy)* | Fred Hutch, Broad Institute, Harvard University	 | **OPENING PANEL DISCUSSION:** Navigating high-profile investigations and activities in the time of COVID-19 |
+||
 | 16:50-17:00 | Planning Committee | Planning Committee | Thanks, closing and logistics for the week. |
 
 ## Tuesday, December 8, 2020
 ### Epidemiological Cues: NGS in Clinical and Public Health Microbiology
 
 | Time (GMT-5) | Speaker | Affiliation | Title |
-| ---| --- | ---| ----|
-| 9:00-9:45 | Varvara Kozyreva | California Department of Public Health | [CLIA-Compliant Validation of WGS for Clinical Microbiological Applications: Experience of a State Public Health Reference Laboratory](https://f1000research.com/slides/7-1549) |
-| 9:45-10:30 | [Luke Meredith](http://www.twitter.com/lw_meredith) | University of Cambridge | [Mobile Genomics Laboratories for Viral Outbreak Response](https://drive.google.com/open?id=1H42AForsVFbLT7p7r1mtbgDtjkEkDcdw) |
-| 10:30-11:00 | Coffee break & Meet the Journal of Clinical Microbiology Editor in Chief |
-| 11:00-11:20 | Oral abstract | Matthew Keller | Deployable NGS for Influenza Virus Field Surveillance and Outbreak Response |
-| 11:20-11:40 | Oral abstract | Georgia Lagoudas | One Week, One Thousand Bacterial Genomes: Microfluidics for Molecular Epidemiology and High-resolution Intra-patient Bacterial Evolution |
-| 11:40-12:00 | Oral abstract | Justin O'Grady | Rapid diagnosis of lower respiratory infection using nanopore based metagenomic sequencing |
-| 12:00-12:20 | Oral abstract | Rita Colwell | Translating Metagenomics into Clinical Reality |
-| 12:30-2:00 | Lunch (Tysons Ballroom) |
-| 2:00-3:30 | Poster Session A: Posters 1-84 (Ash Grove Ballroom) |
+| ----| --- | ---| ----|
+| 10:00-10:30 | Sharon Peacock | Public Health England | TBD |
+| 10:30-11:00 | Mike Worobey | University of Arizona | TBD |
+||
+| 11:00-11:15 | Oral abstract | Mike Levandoski | Geographic and Temporal Mapping of the SARS-CoV-2 Pandemic in the United States |
+| 11:15-11:30 | Oral abstract | Heather Blankenship | Utilization of Whole Genome Sequencing of SARS-CoV-2 for Public Health Response |
+| 11:30-11:45 | Oral abstract | Joseph Fauver | Near real-time genomic epidemiology of the SARS-CoV-2 pandemic in Connecticut, USA |
 
 
 ## Monday Afternoon: Pipelines to Pixels: NGS Data Integration and Visualization session (chair: Jennifer Gardy)
