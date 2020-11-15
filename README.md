@@ -167,8 +167,21 @@ ASM will accept and investigate all complaints of harassment and investigations 
 TBA
 
 # 5. NCBI Preconference Workshop <a id="five" />
+The National Center for Biotechnology Information ([NCBI](https://www.ncbi.nlm.nih.gov)) is hosting a virtual workshop entitled: "**Introduction to NCBI Pathogen Detection and Google Cloud-Based Resources for Pathogen NGS Analysis**".  If interested in participating, please contact [Bill Klimke](mailto:klimke@ncbi.nlm.nih.gov) by November 20th, 2020. More information can) be found in the PDF announcement linked [here](https://github.com/asmngs/asmngs20/blob/master/PD-Briefdescription-131120-1503-38.pdf).
 
 # 6. ASM NGS Hackathon <a id="six" />
+## December 2-4, 2020 (0900-1200h GMT-5 all three days)
+This year, [Boas van der Putten](https://twitter.com/boasvdputten) and [Lee Katz](https://www.twitter.com/lskatz) are organizing what looks to be a wonderful ASM NGS Hackathon.
+
+This year's objective is unit testing.  Participants will learn by experience: unit testing, continuous integration, GitHub Actions, and everything else that goes with git.
+
+In other words, each team will take on the task of choosing a bioinformatics software package, testing it in a standardized way, and reporting back to the group.  A finished unit test will be represented by a shiny green badge on our site, indicating that the software works (or a red badge of shame if it doesn't).  If successful, the site will serve as a certification that any given bioinformatics software works (or doesn't).
+
+If interested in participating, please sign up here: https://forms.gle/rSSkQZv3pZXEAh3a7!  
+
+After signing up, please form teams via pull requests here: https://github.com/microbinfie-hackathon2020/CSIS/blob/main/TEAMS.md.
+
+More information and the hackathon base of operations can be found here: https://github.com/microbinfie-hackathon2020/CSIS
 
 # 7. About ASMNGS20 <a id="seven" />
 ASMNGS began in 2015 (if you're feeling nostalgic, the program is available [here](https://www.asm.org/images/ngsfinalprogram.pdf)), organized by Dag Harmsen (University of Muenster), Marc Allard (FDA), and Eric Brown (FDA). In 2017, the program committee was co-chaired by Dag and Jennifer Gardy (BCCDC), and also included Marc, Eric, and new committee members Elodie Ghedin (NYU),  Paul Keim (TGen), Duncan MacCannell (CDC), Adam Phillippy (NHGRI). In order to both coincide with the GenomeTrakr annual meeting and to not conflict with ABPHM, the committee decided to move the meeting to even years beginning in 2018. This year's meeting has been co-chaired by Jennifer and Duncan, and Ruth Timme (FDA) replaced Eric Brown on the organizing committee. The pre-conference workshop was organized by Dag.
