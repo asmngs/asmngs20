@@ -90,31 +90,53 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 
 > Sequencing is providing important new insights in the emergence of antimicrobial resistance, and the risk that resistant organisms pose to humans, animals, agriculture and the environment. This session will explore new approaches for antimicrobial genotyping and the characterization of antimicrobial resistant microbial populations, and the development of new tools to improve their impact.
 
+| Time (GMT-5) | Speaker | Affiliation | Title |
+| ------| --- | ---| ----|
+| 15:30-16:00 | Ami Bhatt | Stanford | TBD |
+||
+| 16:00-16:15 | Oral abstract | Ines Mendes | Improving the Utility of Antimicrobial Resistance Gene Prediction Tools Using the PHA4GE AMR Output Specification Package |
+| 16:15-16:30 | Oral abstract | Ivan Sserwadda  | rMAP; Rapid microbial analysis pipeline for ESKAPE bacterial group whole-genome sequence data |
+| 16:30-16:45 | Oral abstract | Rory Welsh | Genomic analysis from each of the four major Candida auris clades reveal chromosomal rearrangements and loss of subtelomeric adhesins in Clade II |
+| 16:45-17:00 | Oral abstract | Hannah-Marie Martiny | Digging Deep for AMR: Monitoring Antimicrobial Resistance in 100k Host and Environmental Metagenomes |
+
+## Thursday, December 10, 2020
+
+### Pipe Dreams: Analytical Methods, Bioinformatics Tools and Pipelines (08:30h-10:15h GMT-5)
+
+> Recent technology advances have made whole-genome sequencing and other sequencing-based assays ubiquitous in modern microbiology. However, this shift in techniques is generating huge volumes of data that require computational analysis. This session covers new analytical methods and bioinformatics tools designed to surf the growing wave of genomic data.
+
 | Time | Speaker | Affiliation | Title |
 | ------| --- | ---| ----|
-| 3:45-4:30 | Blake Hanson | UTHealth | Nanopore Sequencing to Understand AMR |
-| 4:30-5:15 | [Mike Feldgarden](http://twitter.com/mikethemadbiol) | NCBI | [AMR Resources at NCBI’s Pathogen Portal](https://github.com/asmngs/asmngs18/blob/master/RAPD_ASM2018_v5_Feldgarden.pdf) |
-| 5:15-5:30 | Oral abstract | Emily Snavely | Development and Validation of a Clinical Whole-Genome Sequencing Pipeline for the Detection of Antimicrobial Resistance Genes in Bacterial Isolates |
-| 5:30-5:45 | Oral abstract | David Rasko | Diversity Among blaKPC-containing Plasmids in Escherichia coli and Other Bacterial Species Isolated from the Same Patients |
-| 5:45-6:00 | Oral abstract | Finlay Maguire | AMRtime: Rapid Accurate Identification of Antimicrobial Resistance Determinants from Metagenomic Data |
-| 6:00-8:00 | Dinner (on your own) |
-| 8:00-10:00 | Games Night social event |
+| 08:30-09:00 | Aine O'Toole | University of Edinburgh | TBD |
+| 09:00-09:30 | Yiming Bao | Beijing Institite of Genomics | TBD |
+||
+| 09:30-09:45 | Oral abstract | Sam Nicholls (UBirmingham) | MAJORA: Continuous integration supporting decentralised sequencing for SARS-CoV-2 genomic surveillance |
+| 09:45-10:00 | Oral abstract | Francoise Thibaud-Nissen (NCBI) | Accelerate your research with RAPT, an assembly and gene annotation pipeline |
+| 10:00-10:15 | Oral abstract | Derya Aytan-Atkug (DTU) | Predicting Antimicrobial Resistance Using Globally Aligned Partial Genomes |
 
-## Wednesday Morning: Pipe Dreams: Analytical Methods, Bioinformatics Tools, and Pipelines (chair: Adam Phillippy)
-
-| Time | Speaker | Affiliation | Title |
+### Featured Posters (10:30h-11:30h GMT-5)
+| Time (GMT-5) | Speaker | Affiliation | Title |
 | ------| --- | ---| ----|
-| 9:00-9:45 | [Torsten Seemann](http://twitter.com/torstenseemann) | University of Melbourne | [How to Write Bioinformatics Software no one will use](https://www.slideshare.net/torstenseemann/how-to-write-bioinformatics-software-no-one-will-use) |
-| 9:45-10:30 | Beth Neuhaus | CDC | The CDC Domestic Influenza Surveillance System: From Pipe Dream to High-Performance Reality |
-| 10:30-11:00 | Coffee break |
-| 11:00-11:10 | Oral abstract | [Anders Goncalves da Silva](http://twitter.com/drandersgs) | [AusTrakka: Enabling Data Sharing for Surveillance --- or Why Your Parents Were Right](https://figshare.com/articles/AusTrakka_Enabling_Data_Sharing_for_Surveillance_or_Why_Your_Parents_Were_Right/7138082) |
-| 11:10-11:20 | Oral abstract | [Brian Ondov](https://genomeinformatics.github.io/people/ondov/) | [Mash Screen: Fast Sequence Containment Estimation Using MinHash](https://github.com/asmngs/asmngs18/blob/master/mash-screen-asm.pptx) |
-| 11:20-11:30 | Oral abstract | [Sam Minot](http://twitter.com/sminot) | [Gene-level metagenomic analysis identifies microbial genes reproducibly associated with IBD and CRC across independent clinical cohorts](https://www.slideshare.net/SamuelMinot/minot-asm-ngs-20180926) |
-| 11:30-11:40 | Oral abstract | Ivan Liachko | From Contigs to Chromosomes: A Hi-C Based Graph Assembly Tool Significantly Improves Metagenome Contiguity and -Cfree Metagenomic Deconvolution |
-| 11:40-11:50 | Oral abstract | Karin Lagesen | ORION - One health surRveillance Initiative on harmOnization of Data Collection and interpretatioN |
-| 11:50-12:00 | Oral abstract | Dmitry Antipov | Plasmid Detection and Assembly in Genomic and Metagenomic Datasets |
-| 12:00-12:10 | Oral abstract | [Daniel Baker](https://github.com/dnbaker) | [Dash: Efficient Genomic Set Operations Using HyperLogLogs](https://github.com/asmngs/asmngs18/blob/master/dash_asmngs18.pptx) |
-| 12:10-12:45 | Q&A for presenters |
+| TBD | Featured Poster | Emma Griffiths (UBC) | The DataHarmonizer: A fast, secure application for the harmonization of SARS-CoV-2 contextual data |
+| TBD | Featured Poster | Mohammed Khalfan (NYU) | MAD: A Pipeline for Evaluating Minor Allele Detection Tools |
+| TBD | Featured Poster | Daria van Tyne (UPitt) | Whole-genome sequencing surveillance to study the epidemiology of vancomycin-resistant enterococci at a tertiary care hospital over three years |
+| TBD | Featured Poster | Sandra Montano-Salazar (UNColombia) | The microbiome as evolutionary trait of octocorals |
+| TBD | Featured Poster | Tryna Tania (UIndonesia) | Whole genome sequencing analysis of multi-drug resistantMycobacterium tuberculosisfrom Java, Indonesia |
+
+### NETWORKING AND SOCIAL (15:30h-17:00h GMT-5)
+
+## Friday, December 11, 2020
+
+### Closing Plenary (10:00h-11:45h GMT-5)
+
+| Time (GMT-5) | Speaker | Affiliation | Title |
+| ------| --- | ---| ----|
+| 10:00-1030h | Sofonias Tessema | Africa CDC | The AfricaCDC Pathogen Genomics Initiative |
+||
+| 10:50-11:30 | Kim Pruitt (NCBI), Guy Cochrane (EBI), Yiming Bao (BIG) - *Moderated by David Lipman* | NCBI, EBI and BIG	 | **PANEL DISCUSSION:** Open pathogen sequence data sharing and collaboration in public health, lessons from COVID-19 and directions for the future |
+||
+| 11:30-11:45 | Planning Committee | Planning Committee | Closing comments. |
+
 
 # 3. Code of Conduct
 ASM and the ASMNGS team is committed to providing an environment that encourages the free expression and exchange of scientific ideas and promotes equal opportunities and respectful treatment for all participants. All participants are expected to treat others with respect and consideration, follow venue rules, and alert ASM staff or security of any dangerous situations or anyone in distress.
