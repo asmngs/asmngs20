@@ -3,7 +3,7 @@
 ### December 7-11, 2020
 
 1. [Important Information](#one)
-2. [Schedule & Presentations](#two)
+2. [Schedule & Presentations](#two) [[monday](#monday)|[tuesday](#tuesday)|[wednesday](#wednesday)|[thursday](#thursday)|[friday](#friday)]
 3. [Code of Conduct](#three)
 4. [Live Notes](#four)
 5. [**NCBI Preconference Workshop**](#five)
@@ -24,7 +24,7 @@ If you need to get in touch with the organizers at any time, you have multiple o
 
 Our default **social media policy** is that *anything said by a speaker is fair game for tweeting and live note-taking unless the speaker states otherwise*. We encourage speakers to indicate which slides, if any, should not be tweeted about or noted in the online notes. If you are planning to tweet about a poster, please ask permission of the poster presenter first.
 
-## Monday, December 7, 2020
+## Monday, December 7, 2020 <a id="monday" />
 ### Opening Plenary (15:30h-17:00h GMT-5)
 
 | Time (GMT-5) | Speaker | Affiliation | Title |
@@ -36,7 +36,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 ||
 | 16:50-17:00 | Planning Committee | Planning Committee | Thanks, closing and logistics for the week. |
 
-## Tuesday, December 8, 2020 
+## Tuesday, December 8, 2020 <a id="tuesday" />
 ### Epidemiological Cues: NGS in Clinical and Public Health Microbiology (10:00h-11:45h GMT-5)
 
 > Genomic sequencing and molecular epidemiology are indispensable tools for clinical reference diagnostics, public health surveillance outbreak detection and response.  This session will discuss how sequencing is being used in clinical and public health microbiology, and the challenges and successes in implementing these technologies successfully in routine and standard practice.
@@ -71,7 +71,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 | 18:30-18:45 | Oral abstract | Anthony Underwood (CGPS) | Informing public health intervention by linking and visualising SARS-CoV-2 genome sequences and COVID metadata |
 | 18:45-19:00 | Oral abstract | Aaron Petkau (PHAC) | CARD:Live: A Dynamic Visualization of the Current State of Global Antimicrobial Resistance (AMR) |
 
-## Wednesday, December 9, 2020
+## Wednesday, December 9, 2020 <a id="wednesday" />
 
 ### Farm-to-Table: NGS in Veterinary, Food, and Environmental Microbiology (10:00h-11:30h GMT-5)
 
@@ -99,7 +99,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 | 16:30-16:45 | Oral abstract | Rory Welsh | Genomic analysis from each of the four major Candida auris clades reveal chromosomal rearrangements and loss of subtelomeric adhesins in Clade II |
 | 16:45-17:00 | Oral abstract | Hannah-Marie Martiny | Digging Deep for AMR: Monitoring Antimicrobial Resistance in 100k Host and Environmental Metagenomes |
 
-## Thursday, December 10, 2020
+## Thursday, December 10, 2020 <a id="thursday" />
 
 ### Pipe Dreams: Analytical Methods, Bioinformatics Tools and Pipelines (08:30h-10:15h GMT-5)
 
@@ -125,7 +125,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 
 ### NETWORKING AND SOCIAL (15:30h-17:00h GMT-5)
 
-## Friday, December 11, 2020
+## Friday, December 11, 2020 <a id="friday" />
 
 ### Closing Plenary (10:00h-11:45h GMT-5)
 
