@@ -188,3 +188,49 @@ ASMNGS began in 2015 (if you're feeling nostalgic, the program is available [her
 
 Keynote speakers were selected by soliciting ideas from the organizing committee, who then arrived at our top choices through an email discussion. Submitted abstracts were reviewed by Ruth and Duncan - 149 were accepted, and 10 were declined. Reasons for declining abstracts included a topic not consistent with the conference's scope, or inadequate/inappropriate/insufficient methods/results/conclusions. All accepted abstracts were reviewed by the organizing committee, and six committee members cast votes for that they felt merited oral presentation. Votes were tallied, and abstracts selected for oral presentation accordingly. We also looked for diversity in our presenters, to ensure that ASM NGS continues to represent the full breadth, brightness and potential of our field.
 
+## Program Committee
+
+**Duncan MacCannell** - Chair
+Centers for Disease Control and Prevention
+Atlanta
+
+**Ruth Timme** - Co-Chair
+U.S. Food and Drug Administration
+College Park
+
+**Marc Allard**
+U.S. Food and Drug Administration
+College Park
+
+**Jennifer Gardy**
+Bill and Melinda Gates Foundation
+Seattle
+
+**Elodie Ghedin**
+National Human Genome Research Institute
+Bethesda
+
+**George Gthinji**
+KEMRI/Wellcome Trust
+Nairobi, Kenya
+
+**Dag Harmsen**
+University of Muenster
+Muenster, Germany
+
+**Paul Keim**
+Northern Arizona University
+Flagstaff
+
+**Adam Phillippy**
+National Institutes of Health
+Bethesda
+
+**Torsten Seemann**
+University of Melbourne            
+Melbourne, Australia
+
+**Sofonias Tessema**
+Africa CDC
+Addis Ababa, Ethiopia
+
