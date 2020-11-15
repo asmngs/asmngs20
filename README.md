@@ -7,7 +7,7 @@
 3. [Code of Conduct](#three)
 4. [Live Notes](#four)
 5. [**NCBI Preconference Workshop**](#five)
-6. [**ASMNGS Codeathon**](#six)
+6. [**ASM NGS Hackathon**](#six)
 7. [About ASMNGS20](#seven)
 
 # 1. Important Information <a id="one" />
