@@ -2,24 +2,24 @@
 ### 4th ASM Conference on Rapid Applied Microbial Next-Generation Sequencing and Bioinformatic Pipelines (ASM NGS)
 ### December 7-11, 2020
 
-1. Important Information
-2. Schedule & Presentations
-3. Code of Conduct
-4. Live Notes ([shortcut to the Etherpad](https://tinyurl.com/asmngs18))
-5. **NCBI Preconference Workshop**
-6. **ASMNGS Codeathon**
-7. About ASMNGS20
+1. [Important Information](#one)
+2. [Schedule & Presentations](#two)
+3. [Code of Conduct](#three)
+4. [Live Notes](#four)
+5. [**NCBI Preconference Workshop**](#five)
+6. [**ASMNGS Codeathon**](#six)
+7. [About ASMNGS20](#seven)
 
-# 1. Important Information
-Welcome to ASM NGS 2020! As with many things, it's a bit different this year, but we're grateful that you could join us in this virtual conference format.
+# 1. Important Information <a id="one" />
+Welcome to ASM NGS 2020! As with so many things, ASMNGS will be a bit different this year, but we're grateful that you could join us in this virtual conference format.
 
 As in years past, we're trying to make this conference as **open, accessible, and user-friendly** as possible in the interest of open science. This repo will store slides, posters, and notes from the conference from those participants who are up for sharing their material, and it will also serve as another mechanism to receive realtime feedback in the form of issues (check [this out](https://help.github.com/articles/creating-an-issue/) if you're unsure how to create an issue).
 
 The [conference website](https://www.asm.org/Events/ASM-NGS/Home) contains all sorts of useful information, and if you're tweeting, gramming, tiktoking, or whatever, please use the hashtag **[#ASMNGS20](https://www.twitter.com/search?q=%23ASMNGS20&src=typed_query)**. You can tag **[@ASMicrobiology](https://www.twitter.com/ASMicrobiology)** too.
 
-If you need to get in touch with the organizers at any time, you have multiple options. You can tweet at or email this year's meeting chairs – **Ruth Timme ([🐦](http://www.twitter.com/doctorruth) | [📧](mailto:ruth.timme@fda.hhs.gov)) and Duncan MacCannell ([🐦](http://www.twitter.com/dmaccannell) | [📧](mailto:fms2@cdc.gov)).**  You can also open a new issue in this repo, or you can contact the wonderful ASM Conferences team through the meeting website.
+If you need to get in touch with the organizers at any time, you have multiple options. You can tweet at or email this year's meeting chairs – **Ruth Timme ([twitter](http://www.twitter.com/doctorruth) | [email](mailto:ruth.timme@fda.hhs.gov)) and Duncan MacCannell ([twitter](http://www.twitter.com/dmaccannell) | [email](mailto:fms2@cdc.gov)).**  You can also open a new issue in this repo, or you can contact the wonderful ASM Conferences team through the meeting website.
 
-# 2. Schedule & Presentations
+# 2. Schedule & Presentations <a id="two" />
 **We are encouraging speakers and poster presenters to make their materials available online.** There are multiple avenues for doing so, including Google Drive, Slideshare, figshare,  F1000 Posters, and many more. The schedule below will be updated with links to slides as they are made available, and below the schedule is a list of posters that authors have placed online. Speaker name links go to Twitter profiles; talk title links go to slide files. **If we're missing important links or useful supplemental materials, please let us know (or feel free to submit a pull request)**. We'll try to stay on top of it over the course of this week.
 
 Our default **social media policy** is that *anything said by a speaker is fair game for tweeting and live note-taking unless the speaker states otherwise*. We encourage speakers to indicate which slides, if any, should not be tweeted about or noted in the online notes. If you are planning to tweet about a poster, please ask permission of the poster presenter first.
@@ -138,7 +138,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 | 11:30-11:45 | Planning Committee | Planning Committee | Closing comments. |
 
 
-# 3. Code of Conduct
+# 3. Code of Conduct <a id="three" />
 ASM and the ASMNGS team is committed to providing an environment that encourages the free expression and exchange of scientific ideas and promotes equal opportunities and respectful treatment for all participants. All participants are expected to treat others with respect and consideration, follow venue rules, and alert ASM staff or security of any dangerous situations or anyone in distress.
 
 ASM prohibits and will not tolerate any form of harassment or bullying at its events. Harassment is unwanted and unwelcome attention or other conduct that creates an environment where a reasonable person would feel unwelcome, intimidated, excluded, or abused. Harassment based on gender, race, religion, national origin, age, marital status, personal appearance, sexual orientation, gender identity or expression, family responsibilities, genetic information, disability, matriculation, political affiliation, and any other personal characteristic is strictly prohibited.
@@ -163,20 +163,15 @@ ASM will accept and investigate all complaints of harassment and investigations 
 
 **Thank you for helping to make this a welcoming, friendly space for all!**
 
-# 4. Live Notes
-At ASMNGS17, we started using the EtherPad platform for live, collaborative note-taking - the 2017 notes can be found [here](https://public.etherpad-mozilla.org/p/asmngs17). We're doing it again for ASMNGS18 - jump in and start taking notes at https://tinyurl.com/asmngs18 and feel free to tweet the link so others can follow along from wherever they are. This Etherpad will stay up as long as Mozilla keeps that instance alive. We'll also archive a version to [figshare](http://www.figshare.com) after the meeting.
+# 4. Live Notes <a id="four" />
+TBA
 
-# 5. Social Events
-Thanks to both ASM and our wonderful sponsors, we are able to host a number of social events during the meeting:
-- **Sunday 7:00-8:30pm** is our **opening reception**, hosted by ASM and included in your registration
-- **Monday 7:00-11:00pm** is a **party** hosted off-site by one of our conference sponsors, Oxford Nanopore. Registration for this free event is required - register [here](https://nanoporetech.com/events/asm-ngs-evening-reception).
-- **Tuesday 8:00-8:45am** is a **breakfast seminar** hosted by one of our conference sponsors, Illumina. Registration is not required.
-- **Tuesday 8:00pm** will feature a **conference games night social** for all attendees, organized by ASM and made possible through sponsorship. Mini-golf, bean-bag toss, and drinks!
+# 5. NCBI Preconference Workshop <a id="five" />
 
-# 6. About ASMNGS18
+# 6. ASM NGS Hackathon <a id="six" />
+
+# 7. About ASMNGS20 <a id="seven" />
 ASMNGS began in 2015 (if you're feeling nostalgic, the program is available [here](https://www.asm.org/images/ngsfinalprogram.pdf)), organized by Dag Harmsen (University of Muenster), Marc Allard (FDA), and Eric Brown (FDA). In 2017, the program committee was co-chaired by Dag and Jennifer Gardy (BCCDC), and also included Marc, Eric, and new committee members Elodie Ghedin (NYU),  Paul Keim (TGen), Duncan MacCannell (CDC), Adam Phillippy (NHGRI). In order to both coincide with the GenomeTrakr annual meeting and to not conflict with ABPHM, the committee decided to move the meeting to even years beginning in 2018. This year's meeting has been co-chaired by Jennifer and Duncan, and Ruth Timme (FDA) replaced Eric Brown on the organizing committee. The pre-conference workshop was organized by Dag.
 
-Keynote speakers were selected by soliciting ideas from the organizing committee, who then arrived at our top choices through an email discussion. Submitted abstracts were reviewed by Jennifer and Duncan - 194 were accepted, and 22 were declined. Reasons for declining abstracts included a topic not consistent with the conference's scope, or inadequate/inappropriate/insufficient methods/results/conclusions. All accepted abstracts were reviewed by the organizing committee, and six committee members cast votes for that they felt merited oral presentation. Votes were tallied, and abstracts selected for oral presentation accordingly. We also looked for diversity in our presenters, though we acknowledge gender diversity was hard to achieve in the Tools and Pipelines section. Travel awards  for trainees were also allocated using the committee's votes.
-
-All program committee members have funded their own travel and registration costs for the meeting. Invited keynote speakers have been reimbursed according to ASM guidelines. All sponsorship money raised has gone towards the cost of hosting the meeting, including social events.
+Keynote speakers were selected by soliciting ideas from the organizing committee, who then arrived at our top choices through an email discussion. Submitted abstracts were reviewed by Ruth and Duncan - 149 were accepted, and 10 were declined. Reasons for declining abstracts included a topic not consistent with the conference's scope, or inadequate/inappropriate/insufficient methods/results/conclusions. All accepted abstracts were reviewed by the organizing committee, and six committee members cast votes for that they felt merited oral presentation. Votes were tallied, and abstracts selected for oral presentation accordingly. We also looked for diversity in our presenters, to ensure that ASM NGS continues to represent the full breadth, brightness and potential of our field.
 
