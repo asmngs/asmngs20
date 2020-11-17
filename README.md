@@ -166,8 +166,10 @@ ASM will accept and investigate all complaints of harassment and investigations 
 # 4. Live Notes <a id="four" />
 TBA
 
-# 5. NCBI Preconference Workshop <a id="five" />
+# 5. NCBI Preconference Workshop (December 7th, 2020 - 0900h-1300h GMT-5)<a id="five" />
 The National Center for Biotechnology Information ([NCBI](https://www.ncbi.nlm.nih.gov)) is hosting a virtual workshop entitled: "**Introduction to NCBI Pathogen Detection and Google Cloud-Based Resources for Pathogen NGS Analysis**".  If interested in participating, please contact [Bill Klimke](mailto:klimke@ncbi.nlm.nih.gov) by November 20th, 2020. More information can) be found in the PDF announcement linked [here](https://github.com/asmngs/asmngs20/blob/master/PD-Briefdescription-131120-1503-38.pdf).
+
+**REGISTRATION LINK IS -> [HERE](https://forms.gle/TSpSFsXFWX7ewxER8)**.
 
 # 6. ASM NGS Hackathon <a id="six" />
 ## December 2-4, 2020 (0900-1200h GMT-5 all three days)
