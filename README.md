@@ -32,7 +32,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 | 15:30-15:40 | [Duncan MacCannell](https://www.twitter.com/dmaccannell) & [Ruth Timme](https://www.twitter.com/doctorruth) | Program Committee | Welcome to ASMNGS 2020 |
 | 15:40-15:50 | TBD | American Society for Microbiology | Welcome on Behalf of ASM |
 ||
-| 15:50-16:50 | [Trevor Bedford](https://www.twitter.com/trvrb), Bronwyn MacInnis, [Yonatan Grad](https://www.twitter.com/yhgrad) - *Moderated by [Jennifer Gardy](https://www.twitter.com/jennifergardy)* | Fred Hutch, Broad Institute, Harvard University	 | **OPENING PANEL DISCUSSION:** Navigating high-profile investigations and activities in the time of COVID-19 |
+| 15:50-16:50 | [Trevor Bedford](https://www.twitter.com/trvrb), [Bronwyn MacInnis](https://www.twitter.com/bronwynmacinnis), [Yonatan Grad](https://www.twitter.com/yhgrad) - *Moderated by [Jennifer Gardy](https://www.twitter.com/jennifergardy)* | Fred Hutch, Broad Institute, Harvard University	 | **OPENING PANEL DISCUSSION:** Navigating high-profile investigations and activities in the time of COVID-19 |
 ||
 | 16:50-17:00 | Planning Committee | Planning Committee | Thanks, closing and logistics for the week. |
 
