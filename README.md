@@ -133,7 +133,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 | ------| --- | ---| ----|
 | 10:00-1030h | Sofonias Tessema | Africa CDC | The AfricaCDC Pathogen Genomics Initiative |
 ||
-| 10:50-11:30 | Kim Pruitt (NCBI), Guy Cochrane (EBI), Yiming Bao (BIG) - *Moderated by David Lipman* | NCBI, EBI and BIG	 | **PANEL DISCUSSION:** Open pathogen sequence data sharing and collaboration in public health, lessons from COVID-19 and directions for the future |
+| 10:50-11:30 | Kim Pruitt (NCBI), Guy Cochrane (EBI), Takashi Gojoburi (DDBJ), Yiming Bao (BIG) - *Moderated by David Lipman (Founding Director, NCBI)* | NCBI, EBI, DDBJ and BIG	 | **PANEL DISCUSSION:** Open pathogen sequence data sharing and collaboration in public health, lessons from COVID-19 and directions for the future |
 ||
 | 11:30-11:45 | Planning Committee | Planning Committee | Closing comments. |
 
@@ -202,10 +202,10 @@ We are grateful to all of our corporate [sponsors](https://asm.org/Events/ASM-NG
 
 ## Program Committee
 
-**Duncan MacCannell** - Chair
+**Duncan MacCannell** - Chair,
 *Centers for Disease Control and Preventio*n, Atlanta
 
-**Ruth Timme** - Co-Chair
+**Ruth Timme** - Co-Chair,
 *U.S. Food and Drug Administration*, College Park
 
 **Marc Allard**
