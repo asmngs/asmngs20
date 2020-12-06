@@ -24,6 +24,12 @@ If you need to get in touch with the organizers at any time, you have multiple o
 
 Our default **social media policy** is that *anything said by a speaker is fair game for tweeting and live note-taking unless the speaker states otherwise*. We encourage speakers to indicate which slides, if any, should not be tweeted about or noted in the online notes. If you are planning to tweet about a poster, please ask permission of the poster presenter first.
 
+> **PRESENTERS** If we don't have your Twitter profile linked, or if you'd like us to add a PDF copy of your slides (or URL!), please tag [Duncan](https://www.twitter.com/dmaccannell) or [Ruth](https://www.twitter.com/doctorruth) at any time during the meeting!
+
+## ASM NGS LIVE NOTES
+Live notes have been an important ASM NGS for the past several meetings. For ASMNGS17 and 18, we used Mozilla's EtherPad platform, and unfortunately, I suspect that the notes were lost when Mozilla shuttered the platform in 2018. This time, we'll try Google Docs.  The link to the ASMNGS20 collaborative live notes doc is right [HERE](https://docs.google.com/document/d/1l-661diBpJLinWP7Xyb8Jzc-qUvd54ddqARtz7KaJKs/edit?usp=sharing). I have no idea how well this will work in an asynchronous virtual conference, but jump in and start contributing if you want to!
+> [ASMNGS20 LIVE NOTES - GOOGLE DOC](https://docs.google.com/document/d/1l-661diBpJLinWP7Xyb8Jzc-qUvd54ddqARtz7KaJKs/edit?usp=sharing).
+
 ## Monday, December 7, 2020 <a id="monday" />
 ### Opening Plenary (15:30h-17:00h GMT-5)
 
