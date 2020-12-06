@@ -186,6 +186,8 @@ After signing up, please form teams via pull requests here: https://github.com/m
 
 More information and the hackathon base of operations can be found here: https://github.com/microbinfie-hackathon2020/CSIS
 
+**INCREDIBLE WORK ON THE HACKATHON THIS YEAR!** Four teams developed unit tests and validation for common bioinformatic tools and workflows. *Team Chewbbaca*, *Team SARS-CoV-2*, *Team All-The-Krakens* and *Team Assembly* brought together dozens of beautiful nerds from across four (five?) continents! Running the hackathon was a learning experience, and all four teams made some really amazing hacks!  **CONGRATULATIONS TO ALL THAT PARTICIPATED!**
+
 # 7. About ASMNGS20 <a id="seven" />
 ASMNGS began in 2015 (if you're feeling nostalgic, the program is available [here](https://www.asm.org/images/ngsfinalprogram.pdf)), organized by Dag Harmsen (University of Muenster), Marc Allard (FDA), and Eric Brown (FDA). In 2017, the program committee was co-chaired by Dag and Jennifer Gardy (BCCDC), and also included Marc, Eric, and new committee members Elodie Ghedin (NYU),  Paul Keim (TGen), Duncan MacCannell (CDC), Adam Phillippy (NHGRI). In order to both coincide with the GenomeTrakr annual meeting and to not conflict with ABPHM, the committee decided to move the meeting to even years beginning in 2018. Also in 2018, Ruth Timme (FDA) replaced Eric Brown on the organizing committee and the 2020 planning committee grew to include George Gthinji, Torsten Seemann, and Sofonias Tessema.
 
