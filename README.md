@@ -8,14 +8,14 @@
 4. [Live Notes](#four)
 5. [**NCBI Preconference Workshop**](#five)
 6. [**ASM NGS Hackathon**](#six)
-7. [About ASMNGS20](#seven)
+7. [About ASMNGS](#seven)
 
 # 1. Important Information <a id="one" />
 Welcome to ASM NGS 2020! As with so many things, ASMNGS will be a bit different this year, but we're grateful that you could join us in this virtual conference format.
 
 As in years past, we're trying to make this conference as **open, accessible, and user-friendly** as possible in the interest of open science. This repo will store slides, posters, and notes from the conference from those participants who are up for sharing their material, and it will also serve as another mechanism to receive realtime feedback in the form of issues (check [this out](https://help.github.com/articles/creating-an-issue/) if you're unsure how to create an issue).
 
-The [conference website](https://www.asm.org/Events/ASM-NGS/Home) contains all sorts of useful information, and if you're tweeting, gramming, tiktoking, or whatever, please use the hashtag **[#ASMNGS20](https://www.twitter.com/search?q=%23ASMNGS20&src=typed_query)**. You can tag **[@ASMicrobiology](https://www.twitter.com/ASMicrobiology)** too.
+The [conference website](https://www.asm.org/Events/ASM-NGS/Home) contains all sorts of useful information, and if you're tweeting, gramming, tiktoking, or whatever, please use the hashtag **[#ASMNGS](https://www.twitter.com/search?q=%23ASMNGS&src=typed_query)**. You can tag **[@ASMicrobiology](https://www.twitter.com/ASMicrobiology)** too.
 
 If you need to get in touch with the organizers at any time, you have multiple options. You can tweet at or email this year's meeting chairs – **Ruth Timme ([twitter](http://www.twitter.com/doctorruth) | [email](mailto:ruth.timme@fda.hhs.gov)) and Duncan MacCannell ([twitter](http://www.twitter.com/dmaccannell) | [email](mailto:fms2@cdc.gov)).**  You can also open a new issue in this repo, or you can contact the wonderful ASM Conferences team through the meeting website.
 
@@ -196,7 +196,7 @@ More information and the hackathon base of operations can be found here: https:/
 
 **CONGRATULATIONS TO ALL THAT PARTICIPATED, AND WE HOPE THAT THE HACKING CONTINUES ON!**
 
-# 7. About ASMNGS20 <a id="seven" />
+# 7. About ASMNGS <a id="seven" />
 ASMNGS began in 2015 (if you're feeling nostalgic, the program is available [here](https://www.asm.org/images/ngsfinalprogram.pdf)), organized by Dag Harmsen (University of Muenster), Marc Allard (FDA), and Eric Brown (FDA). In 2017, the program committee was co-chaired by Dag and Jennifer Gardy (BCCDC), and also included Marc, Eric, and new committee members Elodie Ghedin (NYU),  Paul Keim (TGen), Duncan MacCannell (CDC), Adam Phillippy (NHGRI). In order to both coincide with the GenomeTrakr annual meeting and to not conflict with ABPHM, the committee decided to move the meeting to even years beginning in 2018. Also in 2018, Ruth Timme (FDA) replaced Eric Brown on the organizing committee and the 2020 planning committee grew to include George Gthinji, Torsten Seemann, and Sofonias Tessema.
 
 Keynote speakers were selected by soliciting ideas from the organizing committee, who then arrived at our top choices through an email discussion. Submitted abstracts were reviewed by Ruth and Duncan - 149 were accepted, and 10 were declined. Reasons for declining abstracts included a topic not consistent with the conference's scope, or inadequate/inappropriate/insufficient methods/results/conclusions. All accepted abstracts were reviewed by the organizing committee, and six committee members cast votes for that they felt merited oral presentation. Votes were tallied, and abstracts selected for oral presentation accordingly. We also looked for diversity in our presenters, to ensure that ASM NGS continues to represent the full breadth, brightness and potential of our field.
