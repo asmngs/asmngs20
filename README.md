@@ -109,7 +109,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 
 | Time | Speaker | Affiliation | Title |
 | ------| --- | ---| ----|
-| 08:30-09:00 | Aine O'Toole | University of Edinburgh | TBD |
+| 08:30-09:00 | Aine O'Toole | University of Edinburgh | 200,001: A tree-space odyssey. Pandemic phylogenetics and reporting in 2020 |
 | 09:00-09:30 | Yiming Bao | Beijing Institite of Genomics | TBD |
 ||
 | 09:30-09:45 | Oral abstract | Sam Nicholls (UBirmingham) | MAJORA: Continuous integration supporting decentralised sequencing for SARS-CoV-2 genomic surveillance |
