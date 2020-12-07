@@ -67,7 +67,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 
 | Time | Speaker | Affiliation | Title |
 | ------| --- | ---| ----|
-| 17:30-18:00 | Emma Hodcroft | University of Basel | TBD |
+| 17:30-18:00 | Emma Hodcroft | University of Bern | Real-time Tracking for Real-Life Pandemics: Nextstrain & SARS-CoV-2 |
 | 18:00-18:30 | Atul Butte | UCSF | TBD |
 ||
 | 18:30-18:45 | Oral abstract | Anthony Underwood (CGPS) | Informing public health intervention by linking and visualising SARS-CoV-2 genome sequences and COVID metadata |
