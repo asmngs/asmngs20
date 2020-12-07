@@ -96,7 +96,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 | ------| --- | ---| ----|
 | 15:30-16:00 | Ami Bhatt | Stanford | TBD |
 ||
-| 16:00-16:15 | Oral abstract | Ines Mendes | Improving the Utility of Antimicrobial Resistance Gene Prediction Tools Using the PHA4GE AMR Output Specification Package |
+| 16:00-16:15 | Oral abstract | [Ines Mendes](https://twitter.com/ines_cim) | [Improving the Utility of Antimicrobial Resistance Gene Prediction Tools Using the PHA4GE AMR Output Specification Package](https://docs.google.com/presentation/d/e/2PACX-1vQDTTqE4YDRnMbpX3t1MamzN39Z9kWXfNLxD9BaqDuu_5BSqwp-cfWPv4rgwGleSK9p_MQBXxPHhbdw/pub?start=true&loop=true&delayms=3000) |
 | 16:15-16:30 | Oral abstract | Ivan Sserwadda  | rMAP; Rapid microbial analysis pipeline for ESKAPE bacterial group whole-genome sequence data |
 | 16:30-16:45 | Oral abstract | Rory Welsh | Genomic analysis from each of the four major Candida auris clades reveal chromosomal rearrangements and loss of subtelomeric adhesins in Clade II |
 | 16:45-17:00 | Oral abstract | Hannah-Marie Martiny | Digging Deep for AMR: Monitoring Antimicrobial Resistance in 100k Host and Environmental Metagenomes |
