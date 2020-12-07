@@ -71,7 +71,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 | 18:00-18:30 | Atul Butte | UCSF | TBD |
 ||
 | 18:30-18:45 | Oral abstract | Anthony Underwood (CGPS) | Informing public health intervention by linking and visualising SARS-CoV-2 genome sequences and COVID metadata |
-| 18:45-19:00 | Oral abstract | Aaron Petkau (PHAC) | CARD:Live: A Dynamic Visualization of the Current State of Global Antimicrobial Resistance (AMR) |
+| 18:45-19:00 | Oral abstract | Aaron Petkau (PHAC) | [CARD:Live: A Dynamic Visualization of the Current State of Global Antimicrobial Resistance (AMR)](https://drive.google.com/file/d/17--orIvAlTb807i47HrvXUbwMo-PwjUg/view?usp=sharing) |
 
 ## Wednesday, December 9, 2020 <a id="wednesday" />
 
