@@ -166,9 +166,9 @@ ASM will accept and investigate all complaints of harassment and investigations 
 **Thank you for helping to make this a welcoming, friendly space for all!**
 
 # 4. Live Notes <a id="four" />
-Live notes have been an important ASM NGS for the past several meetings. For ASMNGS17 and 18, we used Mozilla's EtherPad platform, and unfortunately, I suspect that the notes were lost when Mozilla shuttered the platform in 2018. (**Update:** Thanks to [Matt Croxen](https://www.twitter.com/m_croxen) for finding a PDF archive of the [ASM2017 live notes](https://github.com/asmngs/asmngs20/blob/master/asmngs17.pdf))! This time, we'll try Google Docs.  The link to the ASMNGS20 collaborative live notes doc is right [HERE](https://docs.google.com/document/d/1l-661diBpJLinWP7Xyb8Jzc-qUvd54ddqARtz7KaJKs/edit?usp=sharing). I have no idea how well this will work in an asynchronous virtual conference, but jump in and start contributing if you want to!
+Live notes have been an important ASM NGS for the past several meetings. For ASMNGS17 and 18, we used Mozilla's EtherPad platform, and unfortunately, I suspect that the notes were lost when Mozilla shuttered the platform in 2018. This time, we'll try Google Docs.  The link to the ASMNGS20 collaborative live notes doc is right [HERE](https://docs.google.com/document/d/1l-661diBpJLinWP7Xyb8Jzc-qUvd54ddqARtz7KaJKs/edit?usp=sharing). I have no idea how well this will work in an asynchronous virtual conference, but jump in and start contributing if you want to!
 > [ASMNGS20 LIVE NOTES - GOOGLE DOC](https://docs.google.com/document/d/1l-661diBpJLinWP7Xyb8Jzc-qUvd54ddqARtz7KaJKs/edit?usp=sharing).
-
+> **Update:** Thanks to [Matt Croxen](https://www.twitter.com/m_croxen) for finding a PDF archive of the [ASM2017 live notes](https://github.com/asmngs/asmngs20/blob/master/asmngs17.pdf)!
 
 # 5. NCBI Preconference Workshop <a id="five" />
 ## December 7th, 2020 - 0900h-1300h GMT-5
