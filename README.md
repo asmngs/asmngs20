@@ -32,7 +32,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 | Time (GMT-5) | Speaker | Affiliation | Title |
 | ------| --- | ---| ----|
 | 15:30-15:40 | [Duncan MacCannell](https://www.twitter.com/dmaccannell) & [Ruth Timme](https://www.twitter.com/doctorruth) | Program Committee | Welcome to ASMNGS 2020 |
-| 15:40-15:50 | TBD | American Society for Microbiology | Welcome on Behalf of ASM |
+| 15:40-15:50 | [Victor DiRita](https://www.twitter.com/VictorDiRita) | American Society for Microbiology | Welcome on Behalf of ASM |
 ||
 | 15:50-16:50 | [Trevor Bedford](https://www.twitter.com/trvrb), [Bronwyn MacInnis](https://www.twitter.com/bronwynmacinnis), [Yonatan Grad](https://www.twitter.com/yhgrad) - *Moderated by [Jennifer Gardy](https://www.twitter.com/jennifergardy)* | Fred Hutch, Broad Institute, Harvard University	 | **OPENING PANEL DISCUSSION:** Navigating high-profile investigations and activities in the time of COVID-19 |
 ||
@@ -46,11 +46,11 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 | Time (GMT-5) | Speaker | Affiliation | Title |
 | ------| --- | ---| ----|
 | 10:00-10:30 | Sharon Peacock | Public Health England | TBD |
-| 10:30-11:00 | Mike Worobey | University of Arizona | TBD |
+| 10:30-11:00 | [Mike Worobey](https:///www.twitter.com/michaelworobey) | University of Arizona | TBD |
 ||
 | 11:00-11:15 | Oral abstract | Mike Levandoski | Geographic and Temporal Mapping of the SARS-CoV-2 Pandemic in the United States |
 | 11:15-11:30 | Oral abstract | Heather Blankenship | Utilization of Whole Genome Sequencing of SARS-CoV-2 for Public Health Response |
-| 11:30-11:45 | Oral abstract | Joseph Fauver | Near real-time genomic epidemiology of the SARS-CoV-2 pandemic in Connecticut, USA |
+| 11:30-11:45 | Oral abstract | [Joseph Fauver](https://www.twitter.com/josephfauver) | Near real-time genomic epidemiology of the SARS-CoV-2 pandemic in Connecticut, USA |
 
 ### Featured Posters (15:30h-17:00h GMT-5)
 | Time (GMT-5) | Speaker | Affiliation | Title |
