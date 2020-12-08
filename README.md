@@ -8,14 +8,14 @@
 4. [Live Notes](#four)
 5. [**NCBI Preconference Workshop**](#five)
 6. [**ASM NGS Hackathon**](#six)
-7. [About ASMNGS20](#seven)
+7. [About ASMNGS](#seven)
 
 # 1. Important Information <a id="one" />
 Welcome to ASM NGS 2020! As with so many things, ASMNGS will be a bit different this year, but we're grateful that you could join us in this virtual conference format.
 
 As in years past, we're trying to make this conference as **open, accessible, and user-friendly** as possible in the interest of open science. This repo will store slides, posters, and notes from the conference from those participants who are up for sharing their material, and it will also serve as another mechanism to receive realtime feedback in the form of issues (check [this out](https://help.github.com/articles/creating-an-issue/) if you're unsure how to create an issue).
 
-The [conference website](https://www.asm.org/Events/ASM-NGS/Home) contains all sorts of useful information, and if you're tweeting, gramming, tiktoking, or whatever, please use the hashtag **[#ASMNGS20](https://www.twitter.com/search?q=%23ASMNGS20&src=typed_query)**. You can tag **[@ASMicrobiology](https://www.twitter.com/ASMicrobiology)** too.
+The [conference website](https://www.asm.org/Events/ASM-NGS/Home) contains all sorts of useful information, and if you're tweeting, gramming, tiktoking, or whatever, please use the hashtag **[#ASMNGS](https://www.twitter.com/search?q=%23ASMNGS&src=typed_query)**. You can tag **[@ASMicrobiology](https://www.twitter.com/ASMicrobiology)** too.
 
 If you need to get in touch with the organizers at any time, you have multiple options. You can tweet at or email this year's meeting chairs – **Ruth Timme ([twitter](http://www.twitter.com/doctorruth) | [email](mailto:ruth.timme@fda.hhs.gov)) and Duncan MacCannell ([twitter](http://www.twitter.com/dmaccannell) | [email](mailto:fms2@cdc.gov)).**  You can also open a new issue in this repo, or you can contact the wonderful ASM Conferences team through the meeting website.
 
@@ -32,7 +32,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 | Time (GMT-5) | Speaker | Affiliation | Title |
 | ------| --- | ---| ----|
 | 15:30-15:40 | [Duncan MacCannell](https://www.twitter.com/dmaccannell) & [Ruth Timme](https://www.twitter.com/doctorruth) | Program Committee | Welcome to ASMNGS 2020 |
-| 15:40-15:50 | TBD | American Society for Microbiology | Welcome on Behalf of ASM |
+| 15:40-15:50 | [Victor DiRita](https://www.twitter.com/VictorDiRita) | American Society for Microbiology | Welcome on Behalf of ASM |
 ||
 | 15:50-16:50 | [Trevor Bedford](https://www.twitter.com/trvrb), [Bronwyn MacInnis](https://www.twitter.com/bronwynmacinnis), [Yonatan Grad](https://www.twitter.com/yhgrad) - *Moderated by [Jennifer Gardy](https://www.twitter.com/jennifergardy)* | Fred Hutch, Broad Institute, Harvard University	 | **OPENING PANEL DISCUSSION:** Navigating high-profile investigations and activities in the time of COVID-19 |
 ||
@@ -46,19 +46,19 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 | Time (GMT-5) | Speaker | Affiliation | Title |
 | ------| --- | ---| ----|
 | 10:00-10:30 | Sharon Peacock | Public Health England | TBD |
-| 10:30-11:00 | Mike Worobey | University of Arizona | TBD |
+| 10:30-11:00 | [Mike Worobey](https:///www.twitter.com/michaelworobey) | University of Arizona | TBD |
 ||
-| 11:00-11:15 | Oral abstract | Mike Levandoski | Geographic and Temporal Mapping of the SARS-CoV-2 Pandemic in the United States |
-| 11:15-11:30 | Oral abstract | Heather Blankenship | Utilization of Whole Genome Sequencing of SARS-CoV-2 for Public Health Response |
-| 11:30-11:45 | Oral abstract | Joseph Fauver | Near real-time genomic epidemiology of the SARS-CoV-2 pandemic in Connecticut, USA |
+| 11:00-11:15 | Oral abstract | [Mike Levandoski](https://www.twitter.com/labcorp) | Geographic and Temporal Mapping of the SARS-CoV-2 Pandemic in the United States |
+| 11:15-11:30 | Oral abstract | [Heather Blankenship](https://www.twitter.com/michiganhhs)  | Utilization of Whole Genome Sequencing of SARS-CoV-2 for Public Health Response |
+| 11:30-11:45 | Oral abstract | [Joseph Fauver](https://www.twitter.com/josephfauver) | Near real-time genomic epidemiology of the SARS-CoV-2 pandemic in Connecticut, USA |
 
 ### Featured Posters (15:30h-17:00h GMT-5)
 | Time (GMT-5) | Speaker | Affiliation | Title |
 | ------| --- | ---| ----|
-| TBD | Featured Poster | Rebecca Rockett (USydney) | The Powerful Duo: Synthesis of SARS-CoV-2 Genome Sequencing and Epidemiological Data for Targeted Control of COVID-19 |
+| TBD | Featured Poster | [Rebecca Rockett](https://www.twitter.com/rockett_rebecca)  (USydney) | The Powerful Duo: Synthesis of SARS-CoV-2 Genome Sequencing and Epidemiological Data for Targeted Control of COVID-19 |
 | TBD | Featured Poster | Jorge Cervantes (Texas Tech) | Genetic Identification and Drug-Resistance Characterization of Mycobacterium tuberculosis Using a Portable Sequencing Device |
 | TBD | Featured Poster | Matthias Groeschel (Harvard) | GenTB: A user-friendly online tool to predict antibiotic resistance in Mycobacterium tuberculosisusing statistical machine learning models |
-| TBD | Featured Poster | Chunxiao Liao (Rice) | VariPhyer: a Modular, Open-source Computational Platform for Verifying Microbial Phylogenetic and Variant Analyses |
+| TBD | Featured Poster | [Chunxiao Liao]((https://www.twitter.com/LiaoChunxiao) (Rice) | VariPhyer: a Modular, Open-source Computational Platform for Verifying Microbial Phylogenetic and Variant Analyses |
 | TBD | Featured Poster | Mustapha Gani (UGreenwich) | Comparative metagenomic analysis of crude oil polluted, remediated and unpolluted soil samples across the Niger Delta region in Nigeria |
 
 ### Pipelines to Pixels: NGS Data Integration and Visualization (17:30h-19:00h GMT-5)
@@ -67,11 +67,11 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 
 | Time | Speaker | Affiliation | Title |
 | ------| --- | ---| ----|
-| 17:30-18:00 | Emma Hodcroft | University of Basel | TBD |
-| 18:00-18:30 | Atul Butte | UCSF | TBD |
+| 17:30-18:00 | [Emma Hodcroft](https://www.twitter.com/firefoxx66) | University of Bern | Real-time Tracking for Real-Life Pandemics: Nextstrain & SARS-CoV-2 |
+| 18:00-18:30 | [Atul Butte]((https://www.twitter.com/atulbutte) | UCSF | TBD |
 ||
-| 18:30-18:45 | Oral abstract | Anthony Underwood (CGPS) | Informing public health intervention by linking and visualising SARS-CoV-2 genome sequences and COVID metadata |
-| 18:45-19:00 | Oral abstract | Aaron Petkau (PHAC) | CARD:Live: A Dynamic Visualization of the Current State of Global Antimicrobial Resistance (AMR) |
+| 18:30-18:45 | Oral abstract | [Anthony Underwood](https://www.twitter.com/bioinformant)  (CGPS) | Informing public health intervention by linking and visualising SARS-CoV-2 genome sequences and COVID metadata |
+| 18:45-19:00 | Oral abstract | [Aaron Petkau](https://www.twitter.com/phac_gc) (PHAC) | [CARD:Live: A Dynamic Visualization of the Current State of Global Antimicrobial Resistance (AMR)](https://drive.google.com/file/d/17--orIvAlTb807i47HrvXUbwMo-PwjUg/view?usp=sharing) |
 
 ## Wednesday, December 9, 2020 <a id="wednesday" />
 
@@ -81,7 +81,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 
 | Time (GMT-5) | Speaker | Affiliation | Title |
 | ------| --- | ---| ----|
-| 10:00-10:30 | Nathan Grubaugh | Yale School of Public Health | TBD |
+| 10:00-10:30 | [Nathan Grubaugh](https://www.twitter.com/nathangrubaugh) | Yale School of Public Health | TBD |
 ||
 | 10:30-10:45 | Oral abstract | Eva Wagner | PathoSeq: A multidisciplinary project aiming to materialize the benefits of whole genome sequencing in the food processing industry |
 | 10:45-11:00 | Oral abstract | Hanna Castro | Profiling of 553 Listeria monocytogenes genomes suggests different niche adaptations for food processing and dairy farm environments |
@@ -94,12 +94,12 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 
 | Time (GMT-5) | Speaker | Affiliation | Title |
 | ------| --- | ---| ----|
-| 15:30-16:00 | Ami Bhatt | Stanford | TBD |
+| 15:30-16:00 | [Ami Bhatt](https://www.twitter.com/stanfordmed) | Stanford | TBD |
 ||
-| 16:00-16:15 | Oral abstract | Ines Mendes | Improving the Utility of Antimicrobial Resistance Gene Prediction Tools Using the PHA4GE AMR Output Specification Package |
+| 16:00-16:15 | Oral abstract | [Ines Mendes](https://twitter.com/ines_cim) | [Improving the Utility of Antimicrobial Resistance Gene Prediction Tools Using the PHA4GE AMR Output Specification Package](https://docs.google.com/presentation/d/e/2PACX-1vQDTTqE4YDRnMbpX3t1MamzN39Z9kWXfNLxD9BaqDuu_5BSqwp-cfWPv4rgwGleSK9p_MQBXxPHhbdw/pub?start=true&loop=true&delayms=3000) |
 | 16:15-16:30 | Oral abstract | Ivan Sserwadda  | rMAP; Rapid microbial analysis pipeline for ESKAPE bacterial group whole-genome sequence data |
-| 16:30-16:45 | Oral abstract | Rory Welsh | Genomic analysis from each of the four major Candida auris clades reveal chromosomal rearrangements and loss of subtelomeric adhesins in Clade II |
-| 16:45-17:00 | Oral abstract | Hannah-Marie Martiny | Digging Deep for AMR: Monitoring Antimicrobial Resistance in 100k Host and Environmental Metagenomes |
+| 16:30-16:45 | Oral abstract | [Rory Welsh](https://www.twitter.com/RoryMWelsh) | Genomic analysis from each of the four major Candida auris clades reveal chromosomal rearrangements and loss of subtelomeric adhesins in Clade II |
+| 16:45-17:00 | Oral abstract | [Hannah-Marie Martiny](https://www.twitter.com/hm_martiny) | Digging Deep for AMR: Monitoring Antimicrobial Resistance in 100k Host and Environmental Metagenomes |
 
 ## Thursday, December 10, 2020 <a id="thursday" />
 
@@ -109,21 +109,21 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 
 | Time | Speaker | Affiliation | Title |
 | ------| --- | ---| ----|
-| 08:30-09:00 | Aine O'Toole | University of Edinburgh | [200,001: A tree-space odyssey. Pandemic phylogenetics and reporting in 2020](https://www2.slideshare.net/ineNiamhOToole/american-society-for-microbiology-ngs-2020-aine-otoole) |
+| 08:30-09:00 | [Aine O'Toole](https://www.twitter.com/AineToole) | University of Edinburgh | [200,001: A tree-space odyssey. Pandemic phylogenetics and reporting in 2020](https://www2.slideshare.net/ineNiamhOToole/american-society-for-microbiology-ngs-2020-aine-otoole) |
 | 09:00-09:30 | Yiming Bao | Beijing Institite of Genomics | TBD |
 ||
-| 09:30-09:45 | Oral abstract | Sam Nicholls (UBirmingham) | MAJORA: Continuous integration supporting decentralised sequencing for SARS-CoV-2 genomic surveillance |
-| 09:45-10:00 | Oral abstract | Francoise Thibaud-Nissen (NCBI) | Accelerate your research with RAPT, an assembly and gene annotation pipeline |
+| 09:30-09:45 | Oral abstract | [Sam Nicholls](https://www.twitter.com/samstudio8) (UBirmingham) | MAJORA: Continuous integration supporting decentralised sequencing for SARS-CoV-2 genomic surveillance |
+| 09:45-10:00 | Oral abstract | [Francoise Thibaud-Nissen](https://www.twitter.com/ncbi) (NCBI) | Accelerate your research with RAPT, an assembly and gene annotation pipeline |
 | 10:00-10:15 | Oral abstract | Derya Aytan-Atkug (DTU) | Predicting Antimicrobial Resistance Using Globally Aligned Partial Genomes |
 
 ### Featured Posters (10:30h-11:30h GMT-5)
 | Time (GMT-5) | Speaker | Affiliation | Title |
 | ------| --- | ---| ----|
-| TBD | Featured Poster | Emma Griffiths (UBC) | The DataHarmonizer: A fast, secure application for the harmonization of SARS-CoV-2 contextual data |
+| TBD | Featured Poster | [Emma Griffiths](https://www.twitter.com/griffiemma) (UBC) | The DataHarmonizer: A fast, secure application for the harmonization of SARS-CoV-2 contextual data |
 | TBD | Featured Poster | Mohammed Khalfan (NYU) | MAD: A Pipeline for Evaluating Minor Allele Detection Tools |
-| TBD | Featured Poster | Daria van Tyne (UPitt) | Whole-genome sequencing surveillance to study the epidemiology of vancomycin-resistant enterococci at a tertiary care hospital over three years |
+| TBD | Featured Poster | [Daria van Tyne](https://www.twitter.com/dariavantyne) (UPitt) | Whole-genome sequencing surveillance to study the epidemiology of vancomycin-resistant enterococci at a tertiary care hospital over three years |
 | TBD | Featured Poster | Sandra Montano-Salazar (UNColombia) | The microbiome as evolutionary trait of octocorals |
-| TBD | Featured Poster | Tryna Tania (UIndonesia) | Whole genome sequencing analysis of multi-drug resistantMycobacterium tuberculosisfrom Java, Indonesia |
+| TBD | Featured Poster | [Tryna Tania](https://www.twitter.com/tryna_tania) (UIndonesia) | Whole genome sequencing analysis of multi-drug resistantMycobacterium tuberculosisfrom Java, Indonesia |
 
 ### NETWORKING AND SOCIAL (15:30h-17:00h GMT-5)
 
@@ -135,7 +135,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 | ------| --- | ---| ----|
 | 10:00-1030h | Sofonias Tessema | Africa CDC | The AfricaCDC Pathogen Genomics Initiative |
 ||
-| 10:50-11:30 | Kim Pruitt (NCBI), Guy Cochrane (EBI), Takashi Gojoburi (DDBJ), Yiming Bao (BIG) - *Moderated by David Lipman (Founding Director, NCBI)* | NCBI, EBI, DDBJ and BIG	 | **PANEL DISCUSSION:** Open pathogen sequence data sharing and collaboration in public health, lessons from COVID-19 and directions for the future |
+| 10:50-11:30 | [Kim Pruitt](https://www.twitter.com/kdpru) (NCBI), [Guy Cochrane](https://www.twitter.com/guycochrane) (EBI), Takashi Gojoburi (DDBJ), Yiming Bao (BIG) - *Moderated by David Lipman (Founding Director, NCBI)* | NCBI, EBI, DDBJ and BIG	 | **PANEL DISCUSSION:** Open pathogen sequence data sharing and collaboration in public health, lessons from COVID-19 and directions for the future |
 ||
 | 11:30-11:45 | Planning Committee | Planning Committee | Closing comments. |
 
@@ -169,6 +169,7 @@ ASM will accept and investigate all complaints of harassment and investigations 
 Live notes have been an important ASM NGS for the past several meetings. For ASMNGS17 and 18, we used Mozilla's EtherPad platform, and unfortunately, I suspect that the notes were lost when Mozilla shuttered the platform in 2018. This time, we'll try Google Docs.  The link to the ASMNGS20 collaborative live notes doc is right [HERE](https://docs.google.com/document/d/1l-661diBpJLinWP7Xyb8Jzc-qUvd54ddqARtz7KaJKs/edit?usp=sharing). I have no idea how well this will work in an asynchronous virtual conference, but jump in and start contributing if you want to!
 > [ASMNGS20 LIVE NOTES - GOOGLE DOC](https://docs.google.com/document/d/1l-661diBpJLinWP7Xyb8Jzc-qUvd54ddqARtz7KaJKs/edit?usp=sharing).
 
+**Update:** Thanks to [Matt Croxen](https://www.twitter.com/m_croxen) for finding a PDF archive of the [ASM2017 live notes](https://github.com/asmngs/asmngs20/blob/master/asmngs17.pdf)!
 
 # 5. NCBI Preconference Workshop <a id="five" />
 ## December 7th, 2020 - 0900h-1300h GMT-5
@@ -195,7 +196,7 @@ More information and the hackathon base of operations can be found here: https:/
 
 **CONGRATULATIONS TO ALL THAT PARTICIPATED, AND WE HOPE THAT THE HACKING CONTINUES ON!**
 
-# 7. About ASMNGS20 <a id="seven" />
+# 7. About ASMNGS <a id="seven" />
 ASMNGS began in 2015 (if you're feeling nostalgic, the program is available [here](https://www.asm.org/images/ngsfinalprogram.pdf)), organized by Dag Harmsen (University of Muenster), Marc Allard (FDA), and Eric Brown (FDA). In 2017, the program committee was co-chaired by Dag and Jennifer Gardy (BCCDC), and also included Marc, Eric, and new committee members Elodie Ghedin (NYU),  Paul Keim (TGen), Duncan MacCannell (CDC), Adam Phillippy (NHGRI). In order to both coincide with the GenomeTrakr annual meeting and to not conflict with ABPHM, the committee decided to move the meeting to even years beginning in 2018. Also in 2018, Ruth Timme (FDA) replaced Eric Brown on the organizing committee and the 2020 planning committee grew to include George Gthinji, Torsten Seemann, and Sofonias Tessema.
 
 Keynote speakers were selected by soliciting ideas from the organizing committee, who then arrived at our top choices through an email discussion. Submitted abstracts were reviewed by Ruth and Duncan - 149 were accepted, and 10 were declined. Reasons for declining abstracts included a topic not consistent with the conference's scope, or inadequate/inappropriate/insufficient methods/results/conclusions. All accepted abstracts were reviewed by the organizing committee, and six committee members cast votes for that they felt merited oral presentation. Votes were tallied, and abstracts selected for oral presentation accordingly. We also looked for diversity in our presenters, to ensure that ASM NGS continues to represent the full breadth, brightness and potential of our field.
@@ -206,37 +207,37 @@ We are grateful to all of our corporate [sponsors](https://asm.org/Events/ASM-NG
 
 ## Program Committee
 
-**Duncan MacCannell** - Chair,
+**[Duncan MacCannell](https://www.twitter.com/dmaccannell)** - Chair,
 *Centers for Disease Control and Preventio*n, Atlanta
 
-**Ruth Timme** - Co-Chair,
+**[Ruth Timme](https://www.twitter.com/doctorruth)** - Co-Chair,
 *U.S. Food and Drug Administration*, College Park
 
 **Marc Allard**
 *U.S. Food and Drug Administration*, College Park
 
-**Jennifer Gardy**
+**[Jennifer Gardy](https://www.twitter.com/jennifergardy)**
 *Bill and Melinda Gates Foundation*, Seattle
 
-**Elodie Ghedin**
+**[Elodie Ghedin](https://www.twitter.com/eghedin)**
 *National Human Genome Research Institute*, Bethesda
 
-**George Gthinji**
+**[George Gthinji](https://www.twitter.com/george_l)**
 *KEMRI/Wellcome Trust*, Nairobi, Kenya
 
 **Dag Harmsen**
 *University of Muenster*, Muenster, Germany
 
-**Paul Keim**
+**[Paul Keim](https://www.twitter.com/paulkeim)**
 *Northern Arizona University*,Flagstaff
 
-**Adam Phillippy**
+**[Adam Phillippy](https://www.twitter.com/aphillippy)**
 *National Institutes of Health*,
 Bethesda
 
-**Torsten Seemann**
+**[Torsten Seemann](https://www.twitter.com/torstenseemann)**
 *University of Melbourne*, Melbourne, Australia
 
-**Sofonias Tessema**
+**[Sofonias Tessema](https://www.twitter.com/sofoniaskt)**
 *Africa CDC*, Addis Ababa, Ethiopia
 
