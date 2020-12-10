@@ -58,7 +58,7 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 | TBD | Featured Poster | [Rebecca Rockett](https://www.twitter.com/rockett_rebecca)  (USydney) | The Powerful Duo: Synthesis of SARS-CoV-2 Genome Sequencing and Epidemiological Data for Targeted Control of COVID-19 |
 | TBD | Featured Poster | Jorge Cervantes (Texas Tech) | Genetic Identification and Drug-Resistance Characterization of Mycobacterium tuberculosis Using a Portable Sequencing Device |
 | TBD | Featured Poster | Matthias Groeschel (Harvard) | GenTB: A user-friendly online tool to predict antibiotic resistance in Mycobacterium tuberculosisusing statistical machine learning models |
-| TBD | Featured Poster | [Chunxiao Liao]((https://www.twitter.com/LiaoChunxiao) (Rice) | VariPhyer: a Modular, Open-source Computational Platform for Verifying Microbial Phylogenetic and Variant Analyses |
+| TBD | Featured Poster | [Chunxiao Liao](https://www.twitter.com/LiaoChunxiao) (Rice) | VariPhyer: a Modular, Open-source Computational Platform for Verifying Microbial Phylogenetic and Variant Analyses |
 | TBD | Featured Poster | Mustapha Gani (UGreenwich) | Comparative metagenomic analysis of crude oil polluted, remediated and unpolluted soil samples across the Niger Delta region in Nigeria |
 
 ### Pipelines to Pixels: NGS Data Integration and Visualization (17:30h-19:00h GMT-5)
