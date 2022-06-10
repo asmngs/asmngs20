@@ -194,6 +194,9 @@ More information and the hackathon base of operations can be found here: https:/
 ### INCREDIBLE WORK ON THE HACKATHON THIS YEAR!
 > Four teams developed unit tests and validation for common bioinformatic tools and workflows. *Team Chewbbaca*, *Team SARS-CoV-2*, *Team All-The-Krakens* and *Team Assembly* brought together dozens of beautiful nerds from across four (five?) continents! Running the hackathon was a learning experience, and all four teams made some really amazing hacks!
 
+### The product of this hackthon has been published! 
+> van der Putten, B. C. L., C. I. Mendes, B. M. Talbot, J. de Korne-Elenbaas, R. Mamede, P. Vila-Cerqueira, L. P. Coelho, et al. Software testing in microbial bioinformatics: a call to action. Microbial Genomics 8: 000790.
+
 **CONGRATULATIONS TO ALL THAT PARTICIPATED, AND WE HOPE THAT THE HACKING CONTINUES ON!**
 
 # 7. About ASMNGS <a id="seven" />
